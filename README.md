@@ -31,7 +31,7 @@ Unlike heavy neural pipelines, this approach is **lightweight, interpretable, an
 
 | Semantic View | Heatmap Motion |
 |---------------|----------------|
-| ![Semantic](docs/assets/semantic.png) | ![Heatmap](docs/assets/heatmap.png) |
+| ![Semantic](assets/semantic.png) | ![Heatmap](assets/heatmap.png) |
 
 ---
 
