@@ -4,7 +4,7 @@
 
 Colab: https://colab.research.google.com/drive/1H4W0Vh6wYCmhd1Xvh-wVvu6X61JiLKhP?usp=sharing
 
-[🌐 Project Website](https://<your-username>.github.io/phys-gs-lite/)  
+[🌐 Project Website](https://tarungangadhar.github.io/PhysGSLiteWebsite/)  
 
 ---
 
