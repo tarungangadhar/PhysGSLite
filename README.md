@@ -35,6 +35,4 @@ Unlike heavy neural pipelines, this approach is **lightweight, interpretable, an
 
 ---
 
-## Demo
-![Demo](docs/assets/1756275874074318.mp4)
 
