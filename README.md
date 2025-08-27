@@ -1,6 +1,6 @@
 # Phys-GS Lite: Material-Aware Dynamic Gaussian Splatting
 
-[📄 Project Report (PDF)](docs/PhysGSLite.pdf) 
+[📄 Write Up (PDF)](docs/PhysGSLite.pdf) 
 
 Colab: 
 
