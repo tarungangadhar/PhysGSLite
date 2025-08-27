@@ -1,8 +1,5 @@
 # Phys-GS Lite: Material-Aware Dynamic Gaussian Splatting
 
-**Tarun Gangadhar Vadaparthi**  
-University at Buffalo, SUNY  
-
 [📄 Project Report (PDF)](docs/PhysGSLite.pdf) 
 
 Colab: 
